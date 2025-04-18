@@ -1,0 +1,4 @@
+//HowToRun.txt
+
+javac *.java
+java Main
